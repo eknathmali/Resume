@@ -1,0 +1,190 @@
+.resume {
+    background-image: url(Img/bg.png);
+      border: 7px solid black;
+      border-radius: 5px;
+      display: block;
+      width: 50%;
+      margin: auto;
+      height: 900px;
+  }
+
+  .intro {
+      background-color: rgb(14 13 13 / 86%);
+      border: 3px solid rgb(10,10,10);
+      border-radius: 5px;
+      position: absolute;
+      right: 397px;
+      top: 20px;
+      padding: 12px;
+
+  }
+
+  .intro_class {
+      word-spacing: 4px;
+      color: white;
+      font-size: 15px;
+      font-weight: bold;
+
+  }
+
+  pre {
+      word-spacing: 5px;
+      color: black;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+      list-style-type: none;
+
+  }
+
+  .bio {
+      color: white;
+      background-color: rgb(14 13 13 / 86%);
+    
+      border: 3px solid rgb(5, 5, 5);
+      border-radius: 3px;
+      display: block;
+      width: 49%;
+      margin-left: 10px;
+      margin-top: 153px;
+      height: 730px;
+  }
+
+  .mypic {
+      /* background-color: rgb(62, 24, 151); */
+      border: 5px solid rgb(161 126 26);
+      border-radius: 5px;
+      border-top-width: 2px;
+      border-style: double;
+      width: 222px;
+      height: 214px;
+      position: absolute;
+      top: 20px;
+      left: 413px;
+
+  }
+
+  .contact {
+      font-weight: bolder;
+      font-size: 20px;
+      text-align: center;
+      padding-top: 120px;
+
+  }
+
+  .gmail {
+
+      height: 41px;
+      width: 46px;
+      padding-left: 36px;
+      padding-top: 8px;
+  }
+
+  .call {
+
+      position: absolute;
+      top: 370px;
+      height: 39px;
+      width: 46px;
+      left: 437px;
+  }
+
+  .mailid {
+
+      position: absolute;
+      left: 503px;
+      top: 305px;
+  }
+
+  .MobileNo {
+
+      position: absolute;
+      left: 503px;
+      top: 368px;
+  }
+
+  .location {
+
+      position: absolute;
+      top: 432px;
+      height: 40px;
+      width: 46px;
+      left: 437px;
+  }
+
+  .address {
+      word-spacing: 5px;
+      color: white;
+      position: absolute;
+      left: 503px;
+      top: 428px;
+  }
+
+  .education {
+      font-weight: bolder;
+      font-size: 20px;
+      text-align: center;
+      padding-top: 157px;
+
+  }
+
+  .edu_list {
+      padding-left: 56px;
+  }
+
+  .list1 {
+      word-spacing: 4px;
+      margin-bottom: 12px;
+  }
+
+  .skills {
+      color: white;
+      background-color: rgb(14 13 13 / 86%);
+      ;
+      border: 3px solid rgb(5, 5, 5);
+      border-radius: 5px;
+      display: block;
+      width: 46%;
+      margin-left: 394px;
+      margin-top: -213px;
+      height: 209px;
+
+  }
+
+  .skill_heading {
+      font-weight: bolder;
+      font-size: 20px;
+      text-align: center;
+      padding-top: 13px;
+
+  }
+
+  .list2 {
+      word-spacing: 5px;
+      margin-bottom: 7px;
+  }
+
+  .work {
+      color: white;
+      background-color: rgb(14 13 13 / 86%);
+      border: 3px solid rgb(5, 5, 5);
+      border-radius: 5px;
+      display: block;
+      width: 46%;
+      margin-left: 394px;
+      margin-top: -454px;
+      height: 218px;
+
+  }
+
+  .work_experience {
+      font-weight: bolder;
+      font-size: 20px;
+      text-align: center;
+      padding-top: 13px;
+
+  }
+
+  .work_list {
+      word-spacing: 5px;
+      padding-left: 56px;
+  }
